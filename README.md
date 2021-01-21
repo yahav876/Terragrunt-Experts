@@ -9,7 +9,5 @@ In this project we are building a VERY DRY env with terraform via terragrunt.
 Stracture and Env 
 **  NOTE - I have Deploy all of it on 1 SINGLE REGION.
 
-![alt text](https://ibb.co/Krt9pKx)
+![terragrunt-project](https://user-images.githubusercontent.com/69103128/105385931-8ed38a80-5c1c-11eb-82e3-009b8c59218b.jpg)
 
-
-We are building here in the end env like this: 
