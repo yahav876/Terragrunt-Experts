@@ -5,6 +5,7 @@ In this project we are building a VERY DRY env with terraform via terragrunt.
 * DRY remote state file
 * DRY proivders
 * REUSABLE Modules 
+* Configure EC2 instances via Ansible
 
 Stracture and Env 
 **  NOTE - I have Deploy all of it on 1 SINGLE REGION.
