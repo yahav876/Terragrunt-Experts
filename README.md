@@ -1,4 +1,4 @@
-** NOTE ** 
+**NOTE** 
 Updated project moved here - https://github.com/yahav876/Yahav-Student/tree/master/terragrunt-student
 
 Wellcome To my little terragrunt project !
